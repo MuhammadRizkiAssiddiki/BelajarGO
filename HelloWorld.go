@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello World!")
-	fmt.Println("Hello DTS-Backend")
+	fmt.Println("Hello DTS-Backend by KOMINFO")
 }
