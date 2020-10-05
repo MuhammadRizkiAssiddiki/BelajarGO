@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hi Dunia!")
+	fmt.Println("Apa Kabar Dunia!")
 	fmt.Println("Hello DTS-Backend by KOMINFO")
 }
